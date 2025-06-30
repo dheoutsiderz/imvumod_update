@@ -1,11 +1,11 @@
 {
-  "fnmods_update": [
+  "imvumod_update": [
     {
- "version":"9.62",
+ "version":"121010002",
  "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "description":"Imvumod 12.10.10.121010002 (121010002)
 
-Base: 2.23 1.76
+Base: 121010002
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
